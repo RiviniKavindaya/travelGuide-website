@@ -1,0 +1,20 @@
+<section className="section2">
+      <div className="container-fluid">
+      
+      
+        <div className="row">
+            <div className="col-12 ">
+                <div className="card border-0 w-100 card-height" >
+                      <img src={p4} className="card-img" style={{ width: '100%', objectFit: 'cover' }} alt="..."/>
+                      <div className="card-img-overlay d-flex flex-column justify-content-center align-items-center">
+                          <h5 className="card-title text-wrap">"Providing exceptional healthcare with empathy and expertise."</h5>
+                          <p className="card-text  break-paragraph text-wrap"> where compassionate care meets medical excellence.Join our 'Health for All' campaign, promoting wellness and accessibility. . <br />Together, let's make a difference in healthcare, one life at a time. </p>
+                          <div class="d-grid button2 gap-20 col-md-6 mx-auto">
+                            <button class="btn btn-outline-primary btn-lg" type="button">MAKE AN APPOINTMENT</button>
+                          </div>
+                      </div>
+                </div>
+            </div>
+      </div>
+      </div>
+     </section>  
